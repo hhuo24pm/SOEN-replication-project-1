@@ -1,0 +1,18 @@
+n_samples,n_ok,n_fail,acc_no_fail,f1_no_fail,acc_with_fail,f1_with_fail,file
+86,62,24,0.596774194,0.590163934,0.430232558,0.423529412,result cache 25th ND FS\RQ1_NULL_DEREFERENCE_few-shot_deepseek-r1_1.5b__fold0.csv
+33,22,11,0.136363636,0,0.090909091,0,result cache 25th ND FS\RQ1_NULL_DEREFERENCE_few-shot_deepseek-r1_1.5b__fold1.csv
+1,0,1,,0,0,0,result cache 25th ND FS\RQ1_NULL_DEREFERENCE_few-shot_deepseek-r1_1.5b__fold2.csv
+39,24,15,0.5,0,0.307692308,0,result cache 25th ND FS\RQ1_NULL_DEREFERENCE_few-shot_deepseek-r1_1.5b__fold3.csv
+86,63,23,0.523809524,0.583333333,0.38372093,0.442105263,result cache 25th ND FS\RQ1_NULL_DEREFERENCE_few-shot_deepseek-r1_1.5b__fold4.csv
+6,4,2,0.5,0,0.333333333,0,result cache 25th ND ZS\RQ1_NULL_DEREFERENCE_zero-shot_deepseek-r1_1.5b__fold0.csv
+1,1,0,0,0,0,0,result cache 25th ND ZS\RQ1_NULL_DEREFERENCE_zero-shot_deepseek-r1_1.5b__fold1.csv
+5,5,0,0.8,0,0.8,0,result cache 25th ND ZS\RQ1_NULL_DEREFERENCE_zero-shot_deepseek-r1_1.5b__fold2.csv
+2,0,2,,0,0,0,result cache 25th ND ZS\RQ1_NULL_DEREFERENCE_zero-shot_deepseek-r1_1.5b__fold3.csv
+9,7,2,0.571428571,0,0.444444444,0,result cache 25th RL FS\RQ1_RESOURCE_LEAK_few-shot_deepseek-r1_1.5b__fold0.csv
+23,18,5,0.444444444,0.545454545,0.347826087,0.444444444,result cache 25th RL FS\RQ1_RESOURCE_LEAK_few-shot_deepseek-r1_1.5b__fold1.csv
+23,18,5,0.5,0.526315789,0.391304348,0.416666667,result cache 25th RL FS\RQ1_RESOURCE_LEAK_few-shot_deepseek-r1_1.5b__fold2.csv
+17,14,3,0.642857143,0.444444444,0.529411765,0.333333333,result cache 25th RL FS\RQ1_RESOURCE_LEAK_few-shot_deepseek-r1_1.5b__fold3.csv
+6,3,3,0.333333333,0,0.166666667,0,result cache 25th RL FS\RQ1_RESOURCE_LEAK_few-shot_deepseek-r1_1.5b__fold4.csv
+,,,,,,,
+337,241,,0.439236838,,0.303138722,,
+,0.715133531,,0.498412698,,0.375930662,,
